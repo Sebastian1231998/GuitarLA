@@ -5,9 +5,9 @@ export default function Home() {
 
   return (
       <Layout
-      pagina="Inicio"
+      pagina="Tienda"
       >
-           <h1>Inicio</h1>
+           <h1>Tienda</h1>
 
       </Layout>
   )
