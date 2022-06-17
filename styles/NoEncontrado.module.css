@@ -1,0 +1,15 @@
+.no_encontrado{
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.enlace{
+
+    font-size: 2rem;
+    text-decoration: none;
+    color: var(--primary)
+}

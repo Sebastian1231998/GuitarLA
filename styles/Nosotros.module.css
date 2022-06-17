@@ -1,0 +1,13 @@
+.nosotros{
+    display: grid;
+    column-gap: 2rem;
+}
+
+@media(min-width:768px){
+
+    .nosotros{
+       grid-template-columns: repeat(2, 1fr);
+       align-items: center;
+    }
+
+}
